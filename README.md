@@ -1,16 +1,71 @@
-## Hi there 👋
+# Hi, I'm Zill Suryawala 👋
 
-<!--
-**zillsuryawala-code/zillsuryawala-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student at Ganpat University
 
-Here are some ideas to get you started:
+💻 Full-Stack Developer passionate about backend development and scalable web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technical Skills
+
+### Languages
+- Python
+- C++
+- SQL
+- JavaScript
+
+### Frontend
+- HTML5
+- CSS3
+
+### Backend
+- Flask
+- PHP
+
+### Database
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- WordPress
+- Figma
+
+## 📌 Featured Projects
+
+### TravelSync
+A full-stack travel recommendation and hotel booking platform.
+
+**Features:**
+- Personalized travel recommendations
+- Hotel booking system
+- OTP email verification
+- Chatbot integration
+- Dark mode support
+- MySQL database connectivity
+
+### Rock Paper Scissors Game
+Interactive web-based game with:
+
+- User authentication
+- Session management
+- Score tracking
+- Game history storage
+- PHP and MySQL backend
+
+## 🌱 Currently Learning
+
+- Advanced Flask Development
+- REST APIs
+- Database Design
+- Backend System Architecture
+
+## 📫 Connect With Me
+
+📧 Email: zillsuryawala@gmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/zill-suryawala-771816305
+
+---
+
+⭐ Open to internships, collaborations, and learning opportunities.
